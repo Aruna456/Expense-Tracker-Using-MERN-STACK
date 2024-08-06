@@ -1,5 +1,5 @@
 # Expense-Tracker-Using-MERN-STACK
-An Expense Tracker Application developed using MERN stack. This is Simple and Basic App used as an demonstration of my basci understanding in MERN Stack
+An Expense Tracker Application developed using MERN stack. This is Simple and Basic App used as an demonstration of my basic understanding in MERN Stack
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
