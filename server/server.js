@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 // Use middleware
 app.use(cors(
     {
-        orgin: [""],
+        orgin: ["https://expense-tracker-using-mern-git-17b3e1-arunas-projects-e6c312b5.vercel.app"],
         methods:["POST","GET"],
         credentials:true;
     }
